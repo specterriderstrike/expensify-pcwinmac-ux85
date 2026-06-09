@@ -1,4 +1,4 @@
-# 
+# Automatic Expensify tools for Mac OS | Open Source Expensify tools for PC Windows. Featuring payment processing and redaction — optimized for maximum performance on every platform.
 
 
 
